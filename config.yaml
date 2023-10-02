@@ -1,0 +1,5 @@
+address: https://test-stand.gb.ru/
+driver_path: chromedriver.exe
+sleep_time: 2
+login: TonjaQA
+password: 030bc9231e
